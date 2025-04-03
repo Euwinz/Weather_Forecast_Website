@@ -1,2 +1,2 @@
-# Weather_Forecast_Website
-Weather forecast website
+# Weather Forecast Website
+A Coursear guided project
